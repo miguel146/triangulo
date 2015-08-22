@@ -27,6 +27,7 @@ public class Suma {
         c = sc.nextDouble();
         p = (a+b+c)/2;
     System.out.println("Area -> " +  Math.sqrt(p*(p-a)*(p-b)*(p-c)));
+    System.out.println("este es mi primer programa suvido en subversion");
     }
     
 }
